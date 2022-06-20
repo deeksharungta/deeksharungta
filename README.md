@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deeksha Rungta</h1>
 
-  <h3 align="center">🌱 I’m currently learning React Native</h3>
+  <h3 align="center">🌱 I’m currently learning React</h3>
 
   <h1 align="center">Connect with me:</h1>
   <p align="center">
