@@ -10,7 +10,7 @@
 
   <h1 align="center">My Github Stats</h1>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&theme=onedark&line_height=27">
+    <img src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&theme=onedark&count_private=true&line_height=27">
   </p>
     <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
