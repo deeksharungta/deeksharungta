@@ -12,3 +12,7 @@
     <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
   </p>
+   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeksharungta&&show_icons=true&locale=en&layout=compact&theme=onedark"/>
+  </p>
+
