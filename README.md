@@ -34,7 +34,11 @@
  </div>
 
 
-   
+
+<br/>
+
+![footer](https://github.com/deeksharungta/deeksharungta/assets/79518532/b0efd24a-d495-4d16-badc-2fc0eb9e97b0)
+
 
 
 
