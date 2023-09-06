@@ -28,15 +28,11 @@
 
 # Github Stats
  <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&hide_border=true&theme=one_dark_pro" />
- <br/>
-
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&hide_border=true&theme=one_dark_pro" />
+ 
+   ![Deeksha's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true)
    
-  ![Deeksha's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true)
-
-
-  <br/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksharungta&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro&hide_border=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksharungta&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro&hide_border=true" />
  </div>
 
 
