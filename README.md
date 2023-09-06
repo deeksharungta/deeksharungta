@@ -32,9 +32,3 @@
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&hide_border=true&theme=one_dark_pro" />
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksharungta&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro&hide_border=true" />
  </div>
-
-
-
-<br/>
-
-![footer](https://github.com/deeksharungta/deeksharungta/assets/79518532/b0efd24a-d495-4d16-badc-2fc0eb9e97b0)
