@@ -29,7 +29,7 @@
 # Github Stats
  <div align="center">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&hide_border=true&theme=one_dark_pro" />
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true" />
+  <img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true" />
  </div>
 <br/>
   <div align="center">
