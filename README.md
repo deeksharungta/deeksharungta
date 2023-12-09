@@ -34,9 +34,9 @@
         <tr>
           <td>
             <img height="200" src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&hide_border=true&theme=one_dark_pro" />
-          </td>
+          </td>     
           <td>
-             <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true"/> 
+            <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksharungta&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro&hide_border=true" />
           </td>
            </tr>
       </thead>
@@ -44,7 +44,7 @@
  <table align="center" border="0" cellpadding="0" cellspacing="0">
       <tr>
         <td>
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksharungta&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro&hide_border=true" />
+     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true"/> 
       </td>
      </tr>
  </table>
