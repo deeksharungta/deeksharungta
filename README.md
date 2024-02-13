@@ -1,6 +1,7 @@
-  ![github](https://github.com/deeksharungta/deeksharungta/assets/79518532/6bd4c3b5-345e-42c6-b15d-b61bd2e3abe8)
+![github](https://github.com/deeksharungta/deeksharungta/assets/79518532/6bd4c3b5-345e-42c6-b15d-b61bd2e3abe8)
 
 # Tools and Technology
+
  <div align="center">
    
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,24 +24,47 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
  </div>
 
+# Repositories
+
+<div align="center">
+  
+<a href="https://github.com/deeksharungta/promptgpt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=promptgpt&show_icons=true&hide_border=true&theme=one_dark_pro" />
+</a>
+<a href="https://github.com/deeksharungta/pokepocket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=pokepocket&show_icons=true&hide_border=true&theme=one_dark_pro" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/deeksharungta/taskout">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=taskout&show_icons=true&hide_border=true&theme=one_dark_pro" />
+</a>
+<a href="https://github.com/deeksharungta/injury-tracking-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=injury-tracking-system&show_icons=true&hide_border=true&theme=one_dark_pro" />
+</a>
+</div>
 
 # Github Stats
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
-      <thead>
-        <tr>
-          <td>
-            <img height="200" src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&hide_border=true&theme=one_dark_pro" />
-          </td>     
-          <td>
-            <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksharungta&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro&hide_border=true" />
-          </td>
-           </tr>
-      </thead>
-    </table>
- <table align="center" border="0" cellpadding="0" cellspacing="0">
-      <tr>
-        <td>
-     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true"/> 
+  <thead>
+    <tr>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=deeksharungta&show_icons=true&hide_border=true&theme=one_dark_pro" />
+      </td>     
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeksharungta&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro&hide_border=true" />
       </td>
-     </tr>
- </table>
+    </tr>
+  </thead>
+</table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=deeksharungta&show_icons=true&theme=one_dark_pro&hide_border=true"/> 
+    </td>
+  </tr>
+</table>
