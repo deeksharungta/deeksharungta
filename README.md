@@ -24,28 +24,8 @@
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
  </div>
 
-# Repositories
-
-<div align="center">
-  
-<a href="https://github.com/deeksharungta/promptgpt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=promptgpt&show_icons=true&hide_border=true&theme=one_dark_pro" />
-</a>
-<a href="https://github.com/deeksharungta/taskout">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=taskout&show_icons=true&hide_border=true&theme=one_dark_pro" />
-</a>
-
-<br/>
-<br/>
 
 
-<a href="https://github.com/deeksharungta/pokepocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=pokepocket&show_icons=true&hide_border=true&theme=one_dark_pro" />
-</a>
-<a href="https://github.com/deeksharungta/injury-tracking-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deeksharungta&repo=injury-tracking-system&show_icons=true&hide_border=true&theme=one_dark_pro" />
-</a>
-</div>
 
 # Github Stats
 
